@@ -1,1 +1,2 @@
-report is done 
+git repo is init 
+what's the next steps?
